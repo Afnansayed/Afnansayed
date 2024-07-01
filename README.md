@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afnan Sayed Razin</h1>
-<h3 align="center">A passionate Web development</h3>
+<img align="center" src="https://i.ibb.co/YprrXJV/MVM1-1.png" alt="Mokkapps GitHub README header image">
 
 - 🌱 I’m currently learning **Next.jx**
 
