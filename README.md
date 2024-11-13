@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/YprrXJV/MVM1-1.png" alt="Mokkapps GitHub README header image">
+  <img src='https://i.ibb.co.com/7XytPyq/linkdin-banner.png' alt="Mokkapps GitHub README header image">
 </p>
 
 # <span style="font-size: 2em;">About Me</span>
