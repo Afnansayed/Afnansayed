@@ -107,13 +107,13 @@ I specialize in building dynamic, highly responsive web applications with a stro
   * **Backend:** Node.js, Express, TypeScript, Prisma ORM, PostgreSQL (Neon DB)
   * **Integrations:** Better Auth (Authentication) ,Nodemailer/Resend (Emails)
 * **Key Focus:** Secure processing pipelines and dynamic state management.
-* **Links:** [Frontend Repo](https://github.com/Afnansayed) | [Backend Repo](https://github.com/Afnansayed)
+* **Links:** [Frontend Repo](https://github.com/Afnansayed/tutor-management-client) | [Backend Repo](https://github.com/Afnansayed/tutor-management)
 
 ### 🏥 Medicoord — Medical Camp Management System
 * **Description:** A scalable web application designed to optimize logistical coordination and participant workflows during regional medical campaigns.
 * **Tech Stack:** React, Node.js, Express, PostgreSQL, Prisma ORM
 * **Key Focus:** Modular architecture, end-to-end type safety with Zod, secure role-based access control (RBAC), and delivering a premium, highly responsive user interface with dynamic data visualization.
-* **Links:** [Frontend Repo](https://github.com/Afnansayed](https://github.com/Afnansayed/Medicord-client)) | [Backend Repo](https://github.com/Afnansayed](https://github.com/Afnansayed/Medicord-server))
+* **Links:** [Frontend Repo](https://github.com/Afnansayed/Medicord-client) | [Backend Repo](https://github.com/Afnansayed/Medicord-server)
 
 
 
