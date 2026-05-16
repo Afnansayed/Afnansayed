@@ -87,25 +87,33 @@ I specialize in building dynamic, highly responsive web applications with a stro
   </a>
 </p>
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🌊 Cox's Wave — Full-Stack Web Application
-* **Description:** A highly dynamic and responsive full-stack platform built to manage seamless data synchronization, optimized state flow, and scalable client-server communication loops.
-* **Tech Stack:** TypeScript, React, Node.js, Express, MongoDB
-* **Key Focus:** Strict architecture validation, modular type-safety, and secure endpoint communication filtering.
+###  Cox's Wave — Premium Tourism & Event Booking Platform
+
+* **Description:** A premium, full-stack coastal tourism platform designed for discovering and booking luxury beach experiences, bonfire nights, and exclusive events in Cox's Bazar. Features include secure authentication, real-time availability, secure payment processing, and comprehensive admin/owner dashboards for event and booking management.
+* **Tech Stack:** 
+  * **Frontend:** Next.js (React), TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion, Recharts
+  * **Backend:** Node.js, Express, TypeScript, Prisma ORM, PostgreSQL (Neon DB)
+  * **Integrations:** Better Auth (Authentication), Stripe (Payments), Cloudinary (Media), Nodemailer/Resend (Emails)
+* **Key Focus:** Modular architecture, end-to-end type safety with Zod, secure role-based access control (RBAC), and delivering a premium, highly responsive user interface with dynamic data visualization.
 * **Links:** [Frontend Repo](https://github.com/Afnansayed/cox-wave-client) | [Backend Repo](https://github.com/Afnansayed/cox-wave-server)
 
-### 🎓 TutorFlow — EdTech SaaS Platform
+
+### 🎓 TutorFlow —An Educational Platform
 * **Description:** A comprehensive educational platform built with robust payment management tracking and full frontend state syncs.
-* **Tech Stack:** Next.js, Redux, Node.js, Express, MongoDB, Stripe Integration
+* **Tech Stack:** 
+  * **Frontend:** Next.js (React), TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion
+  * **Backend:** Node.js, Express, TypeScript, Prisma ORM, PostgreSQL (Neon DB)
+  * **Integrations:** Better Auth (Authentication) ,Nodemailer/Resend (Emails)
 * **Key Focus:** Secure processing pipelines and dynamic state management.
 * **Links:** [Frontend Repo](https://github.com/Afnansayed) | [Backend Repo](https://github.com/Afnansayed)
 
 ### 🏥 Medicoord — Medical Camp Management System
 * **Description:** A scalable web application designed to optimize logistical coordination and participant workflows during regional medical campaigns.
 * **Tech Stack:** React, Node.js, Express, PostgreSQL, Prisma ORM
-* **Key Focus:** Strictly typed relations, reliable transactional database layouts, and authentication security filters.
-* **Links:** [Frontend Repo](https://github.com/Afnansayed) | [Backend Repo](https://github.com/Afnansayed)
+* **Key Focus:** Modular architecture, end-to-end type safety with Zod, secure role-based access control (RBAC), and delivering a premium, highly responsive user interface with dynamic data visualization.
+* **Links:** [Frontend Repo](https://github.com/Afnansayed](https://github.com/Afnansayed/Medicord-client)) | [Backend Repo](https://github.com/Afnansayed](https://github.com/Afnansayed/Medicord-server))
 
 
 
