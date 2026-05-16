@@ -86,3 +86,38 @@ I specialize in building dynamic, highly responsive web applications with a stro
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
   </a>
 </p>
+
+## 📌 Featured Projects
+
+### 🌊 Cox's Wave — Full-Stack Web Application
+* **Description:** A highly dynamic and responsive full-stack platform built to manage seamless data synchronization, optimized state flow, and scalable client-server communication loops.
+* **Tech Stack:** TypeScript, React, Node.js, Express, MongoDB
+* **Key Focus:** Strict architecture validation, modular type-safety, and secure endpoint communication filtering.
+* **Links:** [Frontend Repo](https://github.com/Afnansayed/cox-wave-client) | [Backend Repo](https://github.com/Afnansayed/cox-wave-server)
+
+### 🎓 TutorFlow — EdTech SaaS Platform
+* **Description:** A comprehensive educational platform built with robust payment management tracking and full frontend state syncs.
+* **Tech Stack:** Next.js, Redux, Node.js, Express, MongoDB, Stripe Integration
+* **Key Focus:** Secure processing pipelines and dynamic state management.
+* **Links:** [Frontend Repo](https://github.com/Afnansayed) | [Backend Repo](https://github.com/Afnansayed)
+
+### 🏥 Medicoord — Medical Camp Management System
+* **Description:** A scalable web application designed to optimize logistical coordination and participant workflows during regional medical campaigns.
+* **Tech Stack:** React, Node.js, Express, PostgreSQL, Prisma ORM
+* **Key Focus:** Strictly typed relations, reliable transactional database layouts, and authentication security filters.
+* **Links:** [Frontend Repo](https://github.com/Afnansayed) | [Backend Repo](https://github.com/Afnansayed)
+
+
+
+## Connect with Me
+<p align="left">
+  <a href="https://portfolio-six-orpin-89.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/afnan-sayed-razin" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:afnansayed1973@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
