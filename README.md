@@ -12,7 +12,7 @@ I specialize in building dynamic, highly responsive web applications with a stro
 
 
 
-## 📊 Live GitHub Analytics
+##  Live GitHub Analytics
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Afnansayed&theme=tokyonight" alt="Afnan's GitHub Streak" height="195" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
