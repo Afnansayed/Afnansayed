@@ -10,18 +10,23 @@ I specialize in building dynamic, highly responsive web applications with a stro
 
 
 
-##  Live GitHub Analytics
+
+
+## 📊 Live GitHub Analytics
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Afnansayed&theme=tokyonight" alt="Afnan's GitHub Streak" height="195" style="display: inline-block; vertical-align: middle; margin-right: 10px;" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Afnansayed&layout=compact&theme=tokyonight&langs_count=6" alt="Afnan's Top Languages" height="195" style="display: inline-block; vertical-align: middle;" />
+  <img src="https://streak-stats.demolab.com/?user=Afnansayed&theme=tokyonight" alt="Afnan's GitHub Streak" height="195" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Afnansayed&layout=compact&theme=tokyonight&langs_count=6" alt="Afnan's Top Languages" height="195" />
 </p>
+
+
 
 
 
 ##  Tech Stack & Skills
 
 ### Frontend
+
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
@@ -63,9 +68,7 @@ I specialize in building dynamic, highly responsive web applications with a stro
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" width="45" height="45"/>
-  </a>
+
 </p>
 
 ### Tools & Services
@@ -77,7 +80,7 @@ I specialize in building dynamic, highly responsive web applications with a stro
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45"/>
   </a>
   <a href="https://stripe.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" alt="Stripe" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="45" height="45"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
