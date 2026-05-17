@@ -100,7 +100,7 @@ I specialize in building dynamic, highly responsive web applications with a stro
 * **Links:** [Frontend Repo](https://github.com/Afnansayed/cox-wave-client) | [Backend Repo](https://github.com/Afnansayed/cox-wave-server)
 
 
-### 🎓 TutorFlow —An Educational Platform
+### TutorFlow —An Educational Platform
 * **Description:** A comprehensive educational platform built with robust payment management tracking and full frontend state syncs.
 * **Tech Stack:** 
   * **Frontend:** Next.js (React), TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion
@@ -109,7 +109,7 @@ I specialize in building dynamic, highly responsive web applications with a stro
 * **Key Focus:** Secure processing pipelines and dynamic state management.
 * **Links:** [Frontend Repo](https://github.com/Afnansayed/tutor-management-client) | [Backend Repo](https://github.com/Afnansayed/tutor-management)
 
-### 🏥 Medicoord — Medical Camp Management System
+### Medicoord — Medical Camp Management System
 * **Description:** A scalable web application designed to optimize logistical coordination and participant workflows during regional medical campaigns.
 * **Tech Stack:** React, Node.js, Express, PostgreSQL, Prisma ORM
 * **Key Focus:** Modular architecture, end-to-end type safety with Zod, secure role-based access control (RBAC), and delivering a premium, highly responsive user interface with dynamic data visualization.
